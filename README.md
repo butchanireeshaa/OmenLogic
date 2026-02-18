@@ -10,7 +10,7 @@ While the code is public, we are **not accepting outside contributions, issues, 
 
 The only people currently working on this codebase are:
 
-- **Person-X** ([@username](https://github.com/someone-probably-named-Person-X))
+- **Venky** ([@tej321vs](https://github.com/tej321vs))
 - **kulwanth komaravolu** ([@kulwanth-komaravolu](https://github.com/kulwanth-komaravolu))
 - **lovelybharath** ([@BharathVaradhi](https://github.com/BharathVaradhi))
 
